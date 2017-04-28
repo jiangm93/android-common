@@ -6,6 +6,7 @@
 maven { 
 url "https://raw.githubusercontent.com/jiangm93/android-common/master"
 }
+
 2.在dependencies 添加 compile 'com.jiangm:android:1.0'
 
 模块
